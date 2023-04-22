@@ -1,0 +1,29 @@
+body{
+    background-image: url(17148544.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+h1{color: aqua;border: solid 2px white;
+
+}
+p{
+    color: antiquewhite;
+}
+h3{
+    right: 20%;
+    color: #c5d20a;
+}
+a{ color: rgb(248, 251, 249);
+    
+}
+h4{
+    color: aquamarine;
+}
+h4{
+    color: rgb(109, 153, 121);
+}
+a{
+    border: solid 2px #a412c9
+}
